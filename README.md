@@ -1,1 +1,1 @@
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+<img src="https://widgetbite.com/stats/mvrck-dev" alt="watching_count" />
